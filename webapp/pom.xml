@@ -12,7 +12,7 @@
 
   <artifactId>linux</artifactId>
   <packaging>war</packaging>
-  <name>linux</name>
+  <name>webapp</name>
   <description>webapp.</description>
 
   <build>
